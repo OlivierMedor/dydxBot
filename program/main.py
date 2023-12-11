@@ -11,7 +11,7 @@ from func_messaging import send_message
 # MAIN FUNCTION
 if __name__ == "__main__":
 
-  # Message on start
+  # Message on start of bot
   send_message("Bot launch successful")
 
   # Connect to client
